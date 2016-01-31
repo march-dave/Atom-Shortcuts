@@ -17,8 +17,7 @@ Command	Mac OS X	Windows	Linux	Description
 Duplicate Lines	shift-cmd-d	ctrl-shift-d	ctrl-shift-d	Duplicates the line of the current cursor position and creates a new line under it with the same contents
 Delete Line	ctrl-shift-k	ctrl-shift-k	ctrl-shift-k	Deletes the current line
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
