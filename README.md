@@ -1,4 +1,4 @@
-# Atom-Shortcuts
+# Atom Keyboard Shortcuts
 
 Atom is a hacker editor which url is https://atom.io/
 
