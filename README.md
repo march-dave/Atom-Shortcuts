@@ -13,4 +13,15 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | --- | --- | --- |
 | Select Word | Ctrl-d | The current cursor select word highlight  |
 | Toggle comments | Ctrl-/ | Select line comments or uncomments |
+
+
+# View
+| Command | Windows | Description |
+| --- | --- | --- |
 | Toggle Tree view | Ctrl-\ | Tree View hide or show  |
+
+# Selection
+| Command | Windows | Description |
+| --- | --- | --- |
+| Select Brackets | Ctrl-M | Select Bracket  |
+| Select Inside Brackets | Alt-Ctrl-M | Select Inside Bracket  |
