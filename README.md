@@ -11,7 +11,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 
 | Command | Windows | Description |
 | --- | --- | --- |
-| Select Word | Ctrl-d | The current cursor select word highlight  |
+| Select Word | Ctrl-D | The current cursor select word highlight  |
 | Toggle comments | Ctrl-/ | Select line comments or uncomments |
 
 
@@ -23,5 +23,5 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 # Selection
 | Command | Windows | Description |
 | --- | --- | --- |
-| Select Brackets | Ctrl-M | Select Bracket  |
-| Select Inside Brackets | Alt-Ctrl-M | Select Inside Bracket  |
+| Cursor move | Ctrl-M | The current cursor move Brackets  |
+| Select Inside Brackets | Alt-Ctrl-M | Select Inside Brackets  |
