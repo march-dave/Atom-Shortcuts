@@ -13,10 +13,8 @@ shortcut. I will keep update whenver heavily to use a Mac.
 
 # Editing
 
-Command	Mac OS X	Windows	Linux	Description
-
 | Command | Windows | Description |
 | --- | --- | --- |
 | `git status` | test | List all *new or modified* files |
 | `git diff` | test |Show file differences that **haven't been** staged |
-|Duplicate Lines | ctrl-shift-d | Duplicates the line of the current cursor position and creates a new line under it with the same contents|
+| Duplicate Lines | ctrl-shift-d | Duplicates the line of the current cursor position and creates a new line under it with the same contents|
