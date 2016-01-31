@@ -11,5 +11,5 @@ shortcut. I will keep update whenver heavily to use a Mac.
 
 | Command | Windows | Description |
 | --- | --- | --- |
-| Select Word | ctrl-d | Select Word and highlight the current cursor and until end poistion |
-| Duplicate Lines | ctrl-shift-d | Duplicates the line of the current cursor position and creates a new line under it with the same contents|
+| Select Word | Ctrl-d | Select Word and highlight the current cursor and until end poistion |
+| Toggle comments | Ctrl-/ | Select line comments and uncomments |
