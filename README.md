@@ -12,5 +12,5 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | Command | Windows | Description |
 | --- | --- | --- |
 | Select Word | Ctrl-d | The current cursor select word highlight  |
-| Toggle comments | Ctrl-/ | Select line comments and uncomments |
-| Toggle Tree view | Ctrl-\ | Tree View Hide and Show  |
+| Toggle comments | Ctrl-/ | Select line comments or uncomments |
+| Toggle Tree view | Ctrl-\ | Tree View hide or show  |
