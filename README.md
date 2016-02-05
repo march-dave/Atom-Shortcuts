@@ -23,5 +23,5 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 # Selection
 | Command | Windows | Description |
 | --- | --- | --- |
-| Cursor move | Ctrl-M | The current cursor move Brackets  |
+| Cursor matching Bracket | Ctrl-M | Jump to matching Bracket  |
 | Select Inside Brackets | Alt-Ctrl-M | Select Inside Brackets  |
