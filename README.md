@@ -6,7 +6,7 @@ This page lists keyboard shortcuts for the Atom text editor that I find valuable
 shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 
  * Current latest is Version 1.4.3 but I am still miss colums selection most of population text editer have it such as Sublime. :sweat_smile:
- ~~Why am I use Atom Editor?~~.
+ ~~Why am I use Atom Editor? because GitHub Playground~~.
 
 ### Editing
 
