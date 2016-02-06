@@ -27,7 +27,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 ### Selection
 | Command | Guess What | My personal experience |
 | --- | --- | --- |
-| Cursor matching Bracket | Ctrl+M | Jump to matching Bracket |
+| Matching Bracket | Ctrl+M | Jump to matching Bracket |
 | Select Inside Brackets | Alt+Ctrl+M | Select Inside Brackets |
 | Select Line | Ctrl+L | Select cursor focus Line |
 | Matching Word Count | Ctrl+E | Matching Word Count |
