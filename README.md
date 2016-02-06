@@ -33,4 +33,4 @@ Current latest is Version 1.4.3 but I am still miss colums selection most of pop
 | Command | Windows | Description |
 | --- | --- | --- |
 | Close Tab | Ctrl+W | Close Tab: It's doesn't have any worning pop-up when Close Tab - carefull!!, From Visual Studio is meaning "Select Word" |
-| Open File | Ctrl+O | File Open required run in Browser for Debugging with html  |
+| Open File | Ctrl+O | File Open required run in Browser for Debugging with html/javascript  |
