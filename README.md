@@ -20,7 +20,7 @@ Current latest is Version 1.4.3 but I am still miss colums selection most of pop
 | --- | --- | --- |
 | Toggle Tree view | Ctrl+\ | Tree View hide or show  |
 | Developer Tools | ALT+Ctrl+I | Run Developer Tools - My favourite feature |
-| Word Wrap | ALT+V and take a break Just only W | It's needed but annoying longcut(shortcut). I don't see any better yet. :-1|
+| Word Wrap | ALT+V and take a break Just only W | It's needed but annoying longcut(shortcut). I don't see any better yet. :-1: |
 
 
 # Selection
