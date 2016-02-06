@@ -31,7 +31,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | Select Line | Ctrl+L | Select cursor focus Line  |
 
 
-# File
+### File
 | Command | Windows | Description |
 | --- | --- | --- |
 | Close Tab | Ctrl+W | Close Tab: It's doesn't have any worning pop-up when Close Tab - carefull!!, From Visual Studio is meaning "Select Word" |
