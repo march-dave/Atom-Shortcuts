@@ -19,6 +19,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | Command | Windows | Description |
 | --- | --- | --- |
 | Toggle Tree view | Ctrl-\ | Tree View hide or show  |
+| Developer Tools | ALT-Ctrl-I | Run Developer Tools and toggle  |
 
 # Selection
 | Command | Windows | Description |
