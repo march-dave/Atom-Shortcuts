@@ -31,4 +31,4 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 # File
 | Command | Windows | Description |
 | --- | --- | --- |
-| Close Tab | Ctrl-W | Close Tab: It's doesn't have any notifi pop-up when Close Tab  |
+| Close Tab | Ctrl-W | Close Tab: It's doesn't have any worning pop-up when Close Tab, From Visual Studio (Select Word)   |
