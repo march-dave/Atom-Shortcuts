@@ -20,7 +20,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | --- | --- | --- |
 | Toggle Tree view | Ctrl+\ | Tree View hide or show  |
 | Developer Tools | ALT+Ctrl+I | Run Developer Tools - My favourite feature |
-| Word Wrap | ALT+V and take a break Just only poke W | It's needed ~~world~~ word many times but annoying longcut(shortcut). I don't see any better cut yet. :-1: |
+| Word Wrap | ALT+V and take a break Just only poke W | It's needed ~~world~~ word wrap many times but annoying ~~longcut~~shortcut. I don't see any better cut yet. :-1: |
 
 
 ### Selection
