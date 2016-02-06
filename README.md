@@ -11,7 +11,7 @@ Current latest is Version 1.4.3 but I am still miss colums selection most of pop
 
 | Command | Windows | Description |
 | --- | --- | --- |
-| Select Word | Ctrl+D | Select word and highlight - Try more multiple types!! I though It was a bug because highlight multiple matching word and cursor are be able to replace words |
+| Select Word | Ctrl+D | Select word and highlight - Try multiple clicks!! I though It was a bug because highlight multiple matching word and cursor are be able to replace words |
 | Toggle comments | Ctrl+/ | Select line comments or uncomments |
 
 
