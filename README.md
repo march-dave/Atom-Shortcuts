@@ -10,14 +10,14 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 
 ### Editing
 
-| Guess What | Windows | My personal experience |
+| Command | Guess What | My personal experience |
 | --- | --- | --- |
 | Select Word | Ctrl+D | Select word and highlight - Try multiple clicks!! I though It was a bug because highlighting multiple matching words and also be able to replace one shot, Do you like it? :+1: |
 | Toggle comments | Ctrl+/ | Select line comments or uncomments |
 
 
 ### View
-| Guess What | Windows | My personal experience |
+| Command | Guess What | My personal experience |
 | --- | --- | --- |
 | Toggle Tree view | Ctrl+\ | Tree View hide or show  |
 | Developer Tools | ALT+Ctrl+I | Run Developer Tools - My favourite feature :+1::+1: |
@@ -25,7 +25,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 
 
 ### Selection
-| Guess What | Windows | My personal experience |
+| Command | Guess What | My personal experience |
 | --- | --- | --- |
 | Cursor matching Bracket | Ctrl+M | Jump to matching Bracket  |
 | Select Inside Brackets | Alt+Ctrl+M | Select Inside Brackets  |
