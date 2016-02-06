@@ -7,7 +7,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 
  * Current latest is Version 1.4.3 but I am still miss colums selection most of population text editer have it such as Sublime.
 
-# Editing
+### Editing
 
 | Command | Windows | Description |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | Toggle comments | Ctrl+/ | Select line comments or uncomments |
 
 
-# View
+### View
 | Command | Windows | Description |
 | --- | --- | --- |
 | Toggle Tree view | Ctrl+\ | Tree View hide or show  |
@@ -23,7 +23,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | Word Wrap | ALT+V and take a break Just only W | It's needed but annoying longcut(shortcut). I don't see any better yet. :-1: |
 
 
-# Selection
+### Selection
 | Command | Windows | Description |
 | --- | --- | --- |
 | Cursor matching Bracket | Ctrl+M | Jump to matching Bracket  |
