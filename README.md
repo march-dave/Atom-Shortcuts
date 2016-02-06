@@ -19,7 +19,7 @@ Current latest is Version 1.4.3 but I am still miss colums selection most of pop
 | Command | Windows | Description |
 | --- | --- | --- |
 | Toggle Tree view | Ctrl+\ | Tree View hide or show  |
-| Developer Tools | ALT+Ctrl+I | Run Developer Tools and toggle - My favourite feature |
+| Developer Tools | ALT+Ctrl+I | Run Developer Tools - My favourite feature |
 
 # Selection
 | Command | Windows | Description |
