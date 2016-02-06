@@ -34,5 +34,5 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 ### File
 | Command | Windows | Description |
 | --- | --- | --- |
-| Close Tab | Ctrl+W | Close Tab: It's doesn't have any worning pop-up when Close Tab - carefull!!, From Visual Studio is meaning "Select Word" |
+| Close Tab | Ctrl+W | Close Tab: It's doesn't have any worning pop-up when Close Tab - carefull!!, From Visual Studio shortcut experience users do not expect "Select Word" |
 | Open File | Ctrl+O | File Open required run in Browser for Debugging with html/javascript  |
