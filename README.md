@@ -20,7 +20,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | Command | Guess What | My personal experience |
 | --- | --- | --- |
 | Toggle Tree view | Ctrl+\ | Tree View hide or show  |
-| Tree view Cursor | ALT+\ | Cursor move between view and Tree View  |
+| Tree view Cursor | ALT+\ | Cursor move between Text View and Tree View  |
 | Developer Tools | ALT+Ctrl+I | Run Developer Tools - My favourite feature :+1::+1: |
 | Word Wrap | ALT+V and take a break and just only poke W | It's needed ~~world~~ word wrap many times but annoying ~~longcut~~ shortcut. I don't see any better cut yet. :-1: |
 
