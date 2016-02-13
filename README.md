@@ -29,7 +29,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | Command | Guess What | My personal experience |
 | --- | --- | --- |
 | Matching Bracket | Ctrl+M | Jump to matching Bracket |
-| Select Inside Brackets | Alt+Ctrl+M | Select Inside Brackets |
+| Select Inside Brackets | Alt+Ctrl+M | Select Inside Brackets. It is very useful multiple line comment or uncomment out :+1: |
 | Select Line | Ctrl+L | Select cursor focus Line |
 | Matching Word Count | Ctrl+E | Matching Word Count |
 
