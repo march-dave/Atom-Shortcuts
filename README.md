@@ -30,7 +30,7 @@ shortcut. I will keep update frequently as well as a Mac's Keyboard shortcut.
 | --- | --- | --- |
 | Matching Bracket | Ctrl+M | Jump to matching Bracket |
 | Select Inside Brackets | Alt+Ctrl+M | Select Inside Brackets. It is very useful multiple line comment or uncomment out :+1: |
-| Select Line | Ctrl+L | Select cursor focus Line |
+| Select Line | Ctrl+L | Select cursor focus Line, It could be whole delete line Ctrl + Delete, line move with Ctrl + PageUp or PageDown |
 | Matching Word Count | Ctrl+E | Matching Word Count |
 
 ### File
